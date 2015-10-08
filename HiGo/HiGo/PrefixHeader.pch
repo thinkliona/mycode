@@ -1,0 +1,35 @@
+
+//
+//  PrefixHeader.pch
+//  HiGo
+//
+//  Created by Think_lion on 15/7/25.
+//  Copyright (c) 2015年 Think_lion. All rights reserved.
+//
+
+#ifndef HiGo_PrefixHeader_pch
+#define HiGo_PrefixHeader_pch
+
+
+#define ScreenWidth [UIScreen mainScreen].bounds.size.width
+
+#import "UIView+MJ.h"
+#import "UIImage+CH.h"
+#import "UIBarButtonItem+CH.h"
+#import "HGBaseMethod.h"
+#import "HGFmTool.h"
+#import "UIImageView+WebCache.h"
+#import "MJExtension.h"
+#import "HGGoodsInfoModel.h"
+#import "MJRefresh.h"
+
+
+#define HGURL @"http://v.higo.meilishuo.com/goods/goods_discover"
+#define HGfont(s)  [UIFont systemFontOfSize:(s)]
+#define HGColor(r,g,b) [UIColor colorWithRed:(r)/255.0 green:(g)/255.0 blue:(b)/255.0 alpha:1.0]
+#define HGolorAlpha(r,g,b,alp) [UIColor colorWithRed:(r)/255.0 green:(g)/255.0 blue:(b)/255.0 alpha:(alp)]
+
+#define HGShowTypeOne @"a"
+#define HGShowTypeMore @"b"
+
+#endif

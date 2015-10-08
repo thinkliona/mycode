@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>icon</key>
+		<string>http://d21.higo.res.meilishuo.net/higo/orig/2015-07-23/f5d483ebe83be1d33a2cff6bca4e8bf4.jpg</string>
+		<key>title</key>
+		<string>HIGO7.20周年庆惊喜盘点</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>http://d21.higo.res.meilishuo.net/higo/orig/2015-06-05/a08d78e4c12f31481c2643f71d9237a3.jpg</string>
+		<key>title</key>
+		<string>HIGO新人首单福利</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>http://d21.higo.res.meilishuo.net/higo/orig/2015-07-25/f15400fa35ad17c1096a77a0acef0fd5.jpg</string>
+		<key>title</key>
+		<string>剩得漫不经心，却又可歌可泣</string>
+	</dict>
+</array>
+</plist>
